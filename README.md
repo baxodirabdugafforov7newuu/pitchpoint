@@ -16,7 +16,7 @@ It is designed for football enthusiasts who want a fast, clean, and user-friendl
 ## **Installation**  
 To run the project locally:  
 ```sh
-git clone https://github.com/baxodirabdugafforov7/pitchpoint.git  
+git clone https://github.com/baxodirabdugafforov7newuu/pitchpoint.git  
 cd pitchpoint  
 npm install  # Install dependencies  
 npm start    # Start the development server  
